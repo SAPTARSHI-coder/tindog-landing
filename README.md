@@ -46,4 +46,4 @@ Open `index.html` in any browser. An internet connection is required for Bootstr
 
 ---
 *Made with love by Saptarshi Sadhu*
-"# tindog-landing" 
+
