@@ -70,7 +70,7 @@ To view the project locally:
 
 - **Section-Based Composition:** Logical compartmentalization using semantic `<section id="...">` anchors for scalable navigation.
 - **Fluid Grid System:** Extensive use of Bootstrap's responsive grid (`flex-lg-row-reverse`, `row-cols-md-3`) for flawless viewing across mobile, tablet, and desktop viewports.
-- **Utility-First Override:** Utilizing Bootstrap utilities to define spacing, typography, and layout, while applying selective custom CSS for brand-specific gradients and border-radius overrides.
+- **Utility-First Override:** Utilizing Bootstrap utilities to define spacing, typography, and layout, while applying selective custom CSS for brand-specific gradients and border-radius override.
 
 ---
 
